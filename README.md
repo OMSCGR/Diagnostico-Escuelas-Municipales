@@ -1,0 +1,2 @@
+- 🏫 Diagnóstico Escuelas Municipales: https://omscgr.github.io/Diagnostico-Escuelas-Municipales/
+- 💻 Notebook: https://colab.research.google.com/drive/1gGJHvzkFrXnmGoiwu8YE_bbgT0aeZamd?usp=sharing
